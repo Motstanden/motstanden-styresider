@@ -16,7 +16,7 @@ Gjør en av følgende for å få skrivetilgang:
 - Kontakt [@torsteinws](https://github.com/Torsteinws) 
 
 ## Git
-Trenger du hjelp med å komme i gang med git? Les [git for noobs](git-for-noobs.md).
+Trenger du hjelp med å komme i gang med git? Les gjennom [git for deg som sliter](git-for-deg-som-sliter.md).
 
 ## Rediger side
 *Nb: Går ut ifra at du vil redigere året 2020*
