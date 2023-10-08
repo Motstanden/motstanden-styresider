@@ -19,13 +19,47 @@ Gjør en av følgende for å få skrivetilgang:
 Trenger du hjelp med å komme i gang med git? Les gjennom [git for deg som sliter](git-for-deg-som-sliter.md).
 
 ## Rediger side
-*Nb: Går ut ifra at du vil redigere året 2020*
+*Følgende eksempel går ut ifra at du vil redigere året 2020*
 
 1. Gå til mappen [2020](/2020)
 2. I denne mappen kan du **gjøre hva du vil!™**  
-3. Sørg for at `index.html` er entry-point for nettsiden. Denne filen blir automatisk lastet inn når folk går til [styret.motstanden.no/2020](https://styret.motstanden.no/2020)
+3. Sørg for at `index.html` er entry-point for nettsiden. Denne filen blir automatisk lastet inn når folk går til [styret.motstanden.no/2020](https://styret.motstanden.no/2020) 
 4. Merge endringer til master branch på GitHub.
 5. Endringene er synlige på nettsiden etter et lite minutt.
+
+### Shoutout på motstanden.no
+Vis til resten av Motstanden at du har gjort noe kult ved å oppdatere [projectData.json](/projectData.json). Motstanden.no vil automatisk oppdatere seg selv når denne filen endres.
+
+Følgende felt kan endres:
+- `updated`: Sett til dagens dato. Formatet er `yyyy-mm-dd`
+- `isUpdated`: Sett til `true` for å vise at du har gjort en endring som er verdt å få med seg.
+
+Eksempel:
+```json
+{
+    "pages": [
+        // ... 
+        {
+            "year": "2019",
+            // ... 
+        },
+        {
+            "year": "2020",
+            "relativeUrl": "2020/index.html",
+            "created": "2020-10-15",
+            "updated": "2020-11-30",        // Sett til dagens dato. Format: yyyy-mm-dd
+            "isUpdated": "true"             // Sett til true 
+        },
+        {
+            "year": "2021",
+            // ...
+        },
+        // ...
+    ]
+}
+```
+
+Når du har endret `projectData.json` må du merge til master branch på GitHub. Endringene blir da synlige på [motstanden.no/styrets-nettsider](https://motstanden.no/styrets-nettsider) og [motstanden.no/hjem](https://motstanden.no/hjem) etter et lite minutt.
 
 ## Opprett ny side
 Blir gjort av webingeniør etter generalvorssamling. 
