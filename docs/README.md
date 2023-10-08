@@ -28,12 +28,5 @@ Trenger du hjelp med å komme i gang med git? Les gjennom [git for deg som slite
 5. Endringene er synlige på nettsiden etter et lite minutt.
 
 ## Opprett ny side
-*Nb: Går ut ifra at du vil opprette ny side i året 2030*
-
-1. Lag en kopi av mappen [0000](/0000)
-2. Navngi den nye mappen 2030
-3. Åpne filen 2030/index.html
-4. Erstatt "*0000*" med "*2030*".
-5. Erstatt "*Navn Navnesen*" med Navnene til de som har blitt valgt inn i styret.
-6. Merge til master branch på GitHub
-7. Nettsiden er nå tilgjengelig på [styret.motstanden.no/2030](https://styret.motstanden.no/2030)
+Blir gjort av webingeniør etter generalvorssamling. 
+Se [hvordan opprette ny side](opprett-ny-side.md).
