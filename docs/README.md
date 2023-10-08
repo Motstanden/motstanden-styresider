@@ -35,7 +35,7 @@ Følgende felt kan endres:
 - `isUpdated`: Sett til `true` for å vise at du har gjort en endring som er verdt å få med seg.
 
 Eksempel:
-```json
+```jsonc
 {
     "pages": [
         // ... 
