@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    /* background-color: pink; */
+    background-color: #196E45;
+    color: rgb(255, 255, 0);
+    text-align: center;
+    font-size: x-large;
+    margin: 0;
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+}
+
+video {
+    max-width: 100vw;
+    max-height: 100vh;
+}
+
+#text-section {
+    max-width: 800px;
+    margin-inline: auto;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    margin-top: 0px;
+}
