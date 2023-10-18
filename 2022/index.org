@@ -1,10 +1,7 @@
 #+title: Motstandenstyret 2022
 #+OPTIONS: toc:nil num:nil
-#+LATEX_CLASS: article
-#+LATEX_CLASS_OPTIONS: [a4paper]
-#+LATEX_HEADER: \usepackage[margin=2cm]{geometry}
-#+LATEX_HEADER: \usepackage[dvipsnames]{xcolor}
-#+STARTUP: latexpreview
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
+#+OPTIONS: html-postamble:nil
 
 [[file:./image/parrot.gif]]
 
