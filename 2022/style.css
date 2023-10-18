@@ -8,8 +8,13 @@ body {
     font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
 }
 
+h1 {
+    color: #00FF00;
+    font-size: xx-large;
+}
+
 b {
-    color: #FF00FF
+    color: #FF00FF;
 
 }
 
