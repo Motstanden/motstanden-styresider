@@ -1,0 +1,24 @@
+#+title: Motstandenstyret 2022
+#+OPTIONS: toc:nil num:nil
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[margin=2cm]{geometry}
+#+LATEX_HEADER: \usepackage[dvipsnames]{xcolor}
+#+STARTUP: latexpreview
+
+[[file:./image/parrot.gif]]
+
+
+ *Leder:* Bart van de Lint
+
+ *Økonomiingeniør:* Mikkel Blomnes
+
+ *Musikkingeniør:* Sivert Askeland Lauvdal
+
+ *PR- og Kommunikasjonsingeniør:* Hans Einar Tuhus Fuglum
+
+ *Webingeniør:* John Askeland Lauvdal
+
+#+begin_src inline-js
+
+#+end_src
