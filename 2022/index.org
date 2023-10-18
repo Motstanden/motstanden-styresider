@@ -16,6 +16,3 @@
 
  *Webingeniør:* John Askeland Lauvdal
 
-#+begin_src inline-js
-
-#+end_src
